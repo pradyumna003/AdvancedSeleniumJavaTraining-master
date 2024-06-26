@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
                 "html:target/cucumber.html",
                 "json:target/cucumber.json"
         },
-        tags = "@regression",
+        tags = "@smoke",
         publish = true
 )
 
